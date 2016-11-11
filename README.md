@@ -11,7 +11,9 @@ Step by step intro:
 1.New Project->MFC->MFC Application->Single document->Finish
 
 
-2.Project->Class Wizard->Class 3.Name:CChildView/Messages:WM_TIMER,WM_CREATE,WM_KEYDOWN,WM_PAINT
+2.Project->Class Wizard->Class 
+
+3.Name:CChildView/Messages:WM_TIMER,WM_CREATE,WM_KEYDOWN,WM_PAINT
 
 
 4.Replace CChildView.h,CChildView.cpp with given files
