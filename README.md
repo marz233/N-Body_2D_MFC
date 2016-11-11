@@ -1,5 +1,5 @@
 # N-Body_2D_MFC
-2D N-Body simulation via RK4 with MFC , Brute Force method
+2D N-Body simulation via RK4 with MFC , Brute Force method（基于MFC的二维N体问题模拟，四阶龙格库塔法，暴力算法）
 
 
 Compile Environment : Microsoft Visual Studio 2013 Community
